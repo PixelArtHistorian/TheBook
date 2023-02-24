@@ -1,6 +1,8 @@
 # TheBook
+
 ## Following along the rust programming language book
-The [Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) 
+
+The [Rust Programming Language Book][]
 
 | Chapter                                                        |
 |----------------------------------------------------------------|
@@ -28,8 +30,6 @@ The [Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.h
 |[Final Project: Building a Multithreaded Web Server][]          |
 |[Appendix][]                                                    |
 
-
-
 [Rust Programming Language Book]: https://doc.rust-lang.org/book/title-page.html
 [Getting Started]: https://doc.rust-lang.org/book/ch01-00-getting-started.html
 [Programming a Guessing Game]: https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
@@ -52,5 +52,3 @@ The [Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.h
 [Advanced Features]: https://doc.rust-lang.org/book/ch19-00-advanced-features.html
 [Final Project: Building a Multithreaded Web Server]: https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html
 [Appendix]: https://doc.rust-lang.org/book/appendix-00.html
-
-
